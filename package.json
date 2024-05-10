@@ -15,6 +15,10 @@
     "type": "git",
     "url": "git+https://github.com/AlejandroCortes/tablas_de_multiplicar.git"
   },
+  "bugs": {
+    "url": "https://github.com/AlejandroCortes/tablas_de_multiplicar/issues"
+  },
+  "homepage": "git+https://github.com/AlejandroCortes/tablas_de_multiplicar_node#readme",
   "author": "AlejandroCortés",
   "license": "ISC",
   "dependencies": {
