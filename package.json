@@ -1,0 +1,23 @@
+{
+  "name": "tablas_de_multiplicar",
+  "version": "1.0.0",
+  "description": "Mostrar tablas de multiplicar",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "example",
+    "basic"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlejandroCortes/tablas_de_multiplicar.git"
+  },
+  "author": "AlejandroCortés",
+  "license": "ISC",
+  "dependencies": {
+    "picocolors": "^1.0.0"
+  }
+}
